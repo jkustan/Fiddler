@@ -1,0 +1,5 @@
+== Welcome to Fiddler
+
+Fiddler consists of a single class that can compute sunrise & sunset for an arbitrary latitude, longitude, date, and time zone.  It is a port of a javascript set of functions from http://www.csgnetwork.com/sunriseset.html, but hopefully having it in objective C will save you some time.
+
+Please feel free to use under GPL, and send any comments or bugs to jack@MountainPassTech.com.

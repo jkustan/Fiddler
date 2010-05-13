@@ -1,0 +1,389 @@
+TFiddler
+v7
+r0
+t295415137.822276
+cCheck dependencies
+cProcessInfoPlistFile /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Info.plist Fiddler-Info.plist
+cCompileXIB /Users/jkustanowitz/source/iphoneapps/Fiddler/MainWindow.xib
+cCompileXIB /Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTestController.xib
+cProcessPCH /var/folders/xI/xILBi0eWGf4W8fVUe44bW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fiddler_Prefix-geijyuaehqhlnwghpqhyluqpizdn/Fiddler_Prefix.pch.gch Fiddler_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/main.o /Users/jkustanowitz/source/iphoneapps/Fiddler/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerAppDelegate.o /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/FiddlerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/Fiddler.o /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Fiddler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerTestController.o /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/../FiddlerTestController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Fiddler normal i386
+cGenerateDSYMFile /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app.dSYM /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Fiddler
+cTouch /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/time.h
+c000000004748A133000000000000178E
+t1195942195
+s6030
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/../FiddlerTestController.h
+c000000004BEB71E700000000000006E9
+t1273721319
+s1769
+i<UIKit/UIKit.h>
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/../FiddlerTestController.m
+c000000004BEB73C7000000000000131D
+t1273721799
+s4893
+i"FiddlerTestController.h"
+i"Fiddler.h"
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Fiddler.h
+c000000004BEB748D0000000000000A02
+t1273721997
+s2562
+i<Foundation/Foundation.h>
+i"Time.h"
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Fiddler.m
+c000000004BEB75DE0000000000004784
+t1273722334
+s18308
+i"Fiddler.h"
+i<Math.h>
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/FiddlerAppDelegate.h
+c000000004BEB763000000000000004E5
+t1273722416
+s1253
+i<UIKit/UIKit.h>
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/FiddlerAppDelegate.m
+c000000004BEB7638000000000000063B
+t1273722424
+s1595
+i"FiddlerAppDelegate.h"
+i"FiddlerTestController.h"
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Time.h
+c000000004BC7DA4400000000000001C6
+t1271388740
+s454
+i<Foundation/Foundation.h>
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Time.m
+c000000004BC7DA4400000000000003E1
+t1271388740
+s993
+i"Time.h"
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.h
+c000000004BEA004300000000000000E6
+t1273626691
+s230
+i<UIKit/UIKit.h>
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.m
+c000000004BEA00430000000000000599
+t1273626691
+s1433
+i"FiddlerTest.h"
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.xib
+c000000004BEB4D1F00000000000047A8
+t1273711903
+s18344
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTestController.h
+c000000004BEB71E700000000000006E9
+t1273721319
+s1769
+i<UIKit/UIKit.h>
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTestController.m
+c000000004BEB53A400000000000005B7
+t1273713572
+s1463
+i"FiddlerTestController.h"
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTestController.xib
+c000000004BEB6F880000000000009711
+t1273720712
+s38673
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/Fiddler_Prefix.pch
+c000000004BE9FF4100000000000000B7
+t1273626433
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/MainWindow.xib
+c000000004BE9FF410000000000002108
+t1273626433
+s8456
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app
+t1273722337
+s238
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app.dSYM
+t1273722337
+s102
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Fiddler
+t1273722337
+s39632
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/FiddlerTest.nib
+t1273711905
+s2308
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/FiddlerTestController.nib
+t1273720722
+s5581
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Info.plist
+t1273716693
+s593
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/MainWindow.nib
+t1273716693
+s1360
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/PkgInfo
+t1273716693
+s8
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/Fiddler.LinkFileList
+c000000004BEB71C40000000000000226
+t1273721284
+s550
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/Fiddler.o
+t1273722337
+s35028
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerAppDelegate.o
+t1273721533
+s39212
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerTest.o
+t1273626697
+s29936
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerTestController.o
+t1273721999
+s49944
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/Time.o
+t1273716694
+s11732
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/main.o
+t1273716694
+s5964
+
+N/Users/jkustanowitz/source/iphoneapps/Fiddler/main.m
+c000000004BEB7650000000000000046F
+t1273722448
+s1135
+i<UIKit/UIKit.h>
+
+N/var/folders/xI/xILBi0eWGf4W8fVUe44bW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fiddler_Prefix-geijyuaehqhlnwghpqhyluqpizdn/Fiddler_Prefix.pch.gch
+t1273716694
+s13026768
+
+NFiddler-Info.plist
+c000000004BEB4D5E000000000000038D
+t1273711966
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295415137#295415137#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/Fiddler.o /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Fiddler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295415137.580285
+e295415137.775673
+r1
+xCompileC
+xbuild/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/Fiddler.o
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Fiddler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Fiddler.m295415137#295415137#0(0"0(0#0#63"/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Fiddler.m4300911832#1950"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-generated-files.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-own-target-headers.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-all-target-headers.hmap -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-project-headers.hmap -F/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/include -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources/i386 -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources -include /var/folders/xI/xILBi0eWGf4W8fVUe44bW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fiddler_Prefix-geijyuaehqhlnwghpqhyluqpizdn/Fiddler_Prefix.pch -c /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Fiddler.m -o /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/Fiddler.o0#
+
+CCompileC build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerAppDelegate.o /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/FiddlerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295414333.492950
+e295414333.618717
+r1
+xCompileC
+xbuild/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerAppDelegate.o
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/FiddlerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/FiddlerAppDelegate.m295414333#295414333#0(0"0(0#0#74"/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/FiddlerAppDelegate.m4300911832#1972"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-generated-files.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-own-target-headers.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-all-target-headers.hmap -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-project-headers.hmap -F/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/include -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources/i386 -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources -include /var/folders/xI/xILBi0eWGf4W8fVUe44bW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fiddler_Prefix-geijyuaehqhlnwghpqhyluqpizdn/Fiddler_Prefix.pch -c /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/FiddlerAppDelegate.m -o /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerAppDelegate.o0#
+
+CCompileC build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerTest.o /Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295319497.008909
+e295319497.128512
+r1
+xCompileC
+xbuild/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerTest.o
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.m295319497#295319497#0(0"0(0#0#59"/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.m4300911832#1950"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-generated-files.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-own-target-headers.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-all-target-headers.hmap -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-project-headers.hmap -F/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/include -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources/i386 -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources -include /var/folders/xI/xILBi0eWGf4W8fVUe44bW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fiddler_Prefix-geijyuaehqhlnwghpqhyluqpizdn/Fiddler_Prefix.pch -c /Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.m -o /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerTest.o0#
+
+CCompileC build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerTestController.o /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/../FiddlerTestController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295414799.724124
+e295414799.866694
+r1
+xCompileC
+xbuild/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerTestController.o
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/../FiddlerTestController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/../FiddlerTestController.m295414799#295414799#0(0"0(0#0#80"/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/../FiddlerTestController.m4300911832#1981"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-generated-files.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-own-target-headers.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-all-target-headers.hmap -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-project-headers.hmap -F/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/include -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources/i386 -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources -include /var/folders/xI/xILBi0eWGf4W8fVUe44bW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fiddler_Prefix-geijyuaehqhlnwghpqhyluqpizdn/Fiddler_Prefix.pch -c /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/../FiddlerTestController.m -o /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerTestController.o0#
+
+CCompileC build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/FiddlerTestController.o /Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTestController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/Time.o /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Time.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295409494.833605
+e295409494.927669
+r1
+xCompileC
+xbuild/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/Time.o
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Time.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Time.m295409494#295409494#0(0"0(0#0#60"/Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Time.m4300911832#1944"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-generated-files.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-own-target-headers.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-all-target-headers.hmap -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-project-headers.hmap -F/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/include -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources/i386 -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources -include /var/folders/xI/xILBi0eWGf4W8fVUe44bW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fiddler_Prefix-geijyuaehqhlnwghpqhyluqpizdn/Fiddler_Prefix.pch -c /Users/jkustanowitz/source/iphoneapps/Fiddler/Classes/Time.m -o /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/Time.o0#
+
+CCompileC build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/main.o /Users/jkustanowitz/source/iphoneapps/Fiddler/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295409494.716634
+e295409494.833486
+r1
+xCompileC
+xbuild/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/main.o
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/jkustanowitz/source/iphoneapps/Fiddler/main.m295409494#295409494#0(0"0(0#0#52"/Users/jkustanowitz/source/iphoneapps/Fiddler/main.m4300911832#1936"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-generated-files.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-own-target-headers.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-all-target-headers.hmap -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-project-headers.hmap -F/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/include -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources/i386 -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources -include /var/folders/xI/xILBi0eWGf4W8fVUe44bW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fiddler_Prefix-geijyuaehqhlnwghpqhyluqpizdn/Fiddler_Prefix.pch -c /Users/jkustanowitz/source/iphoneapps/Fiddler/main.m -o /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.xib
+s295404704.440761
+e295404705.137188
+r1
+xCompileXIB
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.xib
+lSLF07#2@26"CompileXIB FiddlerTest.xib295404704#295404705#0(0"0(0#0#61"/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.xib4300911832#505"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/FiddlerTest.nib /Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTest.xib0#
+
+CCompileXIB /Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTestController.xib
+s295413521.621118
+e295413522.232522
+r1
+xCompileXIB
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTestController.xib
+lSLF07#2@36"CompileXIB FiddlerTestController.xib295413521#295413522#0(0"0(0#0#71"/Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTestController.xib4300911832#525"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/FiddlerTestController.nib /Users/jkustanowitz/source/iphoneapps/Fiddler/FiddlerTestController.xib0#
+
+CCompileXIB /Users/jkustanowitz/source/iphoneapps/Fiddler/MainWindow.xib
+s295409493.076462
+e295409493.479079
+r1
+xCompileXIB
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib295409493#295409493#0(0"0(0#0#60"/Users/jkustanowitz/source/iphoneapps/Fiddler/MainWindow.xib4300911832#503"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/MainWindow.nib /Users/jkustanowitz/source/iphoneapps/Fiddler/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app.dSYM /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Fiddler
+s295415137.798861
+e295415137.819155
+r1
+xGenerateDSYMFile
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app.dSYM
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Fiddler
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Fiddler.app.dSYM build/Debug-iphonesimulator/Fiddler.app/Fiddler295415137#295415137#0(0"0(0#0#93"/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Fiddler4300911832#404"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Fiddler -o /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app.dSYM0#
+
+CLd /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Fiddler normal i386
+s295415137.775771
+e295415137.798753
+r1
+xLd
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Fiddler
+xnormal
+xi386
+lSLF07#2@98"Link /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Fiddler295415137#295415137#0(0"0(0#0#0"4300911832#899"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator -F/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator -filelist /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Objects-normal/i386/Fiddler.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Fiddler0#
+
+CProcessInfoPlistFile /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Info.plist Fiddler-Info.plist
+s295409493.052021
+e295409493.076360
+r1
+xProcessInfoPlistFile
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Info.plist
+xFiddler-Info.plist
+lSLF07#2@26"Process Fiddler-Info.plist295409493#295409493#0(0"0(0#0#64"/Users/jkustanowitz/source/iphoneapps/Fiddler/Fiddler-Info.plist4300911832#500"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Fiddler-Info.plist -genpkginfo /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app/Info.plist0#
+
+CProcessPCH /var/folders/xI/xILBi0eWGf4W8fVUe44bW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fiddler_Prefix-geijyuaehqhlnwghpqhyluqpizdn/Fiddler_Prefix.pch.gch Fiddler_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295409493.601978
+e295409494.716394
+r1
+xProcessPCH
+x/var/folders/xI/xILBi0eWGf4W8fVUe44bW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fiddler_Prefix-geijyuaehqhlnwghpqhyluqpizdn/Fiddler_Prefix.pch.gch
+xFiddler_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Fiddler_Prefix.pch295409493#295409494#0(0"0(0#0#64"/Users/jkustanowitz/source/iphoneapps/Fiddler/Fiddler_Prefix.pch4300911832#1821"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-generated-files.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-own-target-headers.hmap -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-all-target-headers.hmap -iquote /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/Fiddler-project-headers.hmap -F/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/include -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources/i386 -I/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Fiddler.build/Debug-iphonesimulator/Fiddler.build/DerivedSources -c /Users/jkustanowitz/source/iphoneapps/Fiddler/Fiddler_Prefix.pch -o /var/folders/xI/xILBi0eWGf4W8fVUe44bW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Fiddler_Prefix-geijyuaehqhlnwghpqhyluqpizdn/Fiddler_Prefix.pch.gch0#
+
+CTouch /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app
+s295415137.819258
+e295415137.822221
+r1
+xTouch
+x/Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app
+lSLF07#2@91"Touch /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app295415137#295415137#0(0"0(0#0#0"4300911832#292"    cd /Users/jkustanowitz/source/iphoneapps/Fiddler    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jkustanowitz/source/iphoneapps/Fiddler/build/Debug-iphonesimulator/Fiddler.app0#
+

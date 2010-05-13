@@ -1,0 +1,385 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FiddlerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 471}}";
+			sepNavSelRange = "{0, 918}";
+			sepNavVisRange = "{0, 1253}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FiddlerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 598}}";
+			sepNavSelRange = "{109, 0}";
+			sepNavVisRange = "{0, 1380}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Fiddler */ = {
+		activeExec = 0;
+		executables = (
+			C4B12C0F119A36C2000EF532 /* Fiddler */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C4B12C0F119A36C2000EF532 /* Fiddler */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Fiddler */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Fiddler */,
+		);
+		breakpoints = (
+			C4B12D32119B9847000EF532 /* Fiddler.m:20 */,
+			C4B12D5E119B9AB3000EF532 /* Fiddler.m:20 */,
+			C4B12DB8119BA14B000EF532 /* Fiddler.m:20 */,
+			C4B12DF1119BA41A000EF532 /* FiddlerTestController.m:85 */,
+			C4B12E54119BAC33000EF532 /* FiddlerTestController.m:82 */,
+			C4B12E5E119BAC58000EF532 /* Fiddler.m:48 */,
+		);
+		codeSenseManager = C4B12C25119A36CE000EF532 /* Code sense */;
+		executables = (
+			C4B12C0F119A36C2000EF532 /* Fiddler */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					829,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 295319234;
+			PBXWorkspaceStateSaveDate = 295319234;
+		};
+		perUserProjectItems = {
+			C4B12E6F119BAE10000EF532 /* PBXTextBookmark */ = C4B12E6F119BAE10000EF532 /* PBXTextBookmark */;
+			C4B12E70119BAE10000EF532 /* PBXTextBookmark */ = C4B12E70119BAE10000EF532 /* PBXTextBookmark */;
+			C4B12E71119BAE10000EF532 /* PBXTextBookmark */ = C4B12E71119BAE10000EF532 /* PBXTextBookmark */;
+			C4B12E72119BAE10000EF532 /* PBXTextBookmark */ = C4B12E72119BAE10000EF532 /* PBXTextBookmark */;
+			C4B12E73119BAE10000EF532 /* PBXTextBookmark */ = C4B12E73119BAE10000EF532 /* PBXTextBookmark */;
+			C4B12E74119BAE10000EF532 /* PBXTextBookmark */ = C4B12E74119BAE10000EF532 /* PBXTextBookmark */;
+			C4B12E75119BAE10000EF532 /* PBXTextBookmark */ = C4B12E75119BAE10000EF532 /* PBXTextBookmark */;
+			C4B12E76119BAE10000EF532 /* PBXTextBookmark */ = C4B12E76119BAE10000EF532 /* PBXTextBookmark */;
+			C4B12E77119BAE10000EF532 /* PlistBookmark */ = C4B12E77119BAE10000EF532 /* PlistBookmark */;
+			C4B12E78119BAE10000EF532 /* PlistBookmark */ = C4B12E78119BAE10000EF532 /* PlistBookmark */;
+		};
+		sourceControlManager = C4B12C24119A36CE000EF532 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 471}}";
+			sepNavSelRange = "{95, 0}";
+			sepNavVisRange = "{0, 1135}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Fiddler_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 471}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 183}";
+		};
+	};
+	C4B12C0F119A36C2000EF532 /* Fiddler */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Fiddler;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	C4B12C24119A36CE000EF532 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C4B12C25119A36CE000EF532 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C4B12C28119A371F000EF532 /* Fiddler.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {530, 6825}}";
+			sepNavSelRange = "{18303, 0}";
+			sepNavVisRange = "{18050, 251}";
+		};
+	};
+	C4B12C29119A371F000EF532 /* Fiddler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 884}}";
+			sepNavSelRange = "{1589, 0}";
+			sepNavVisRange = "{0, 1288}";
+		};
+	};
+	C4B12C50119B8B24000EF532 /* FiddlerTestController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 611}}";
+			sepNavSelRange = "{112, 0}";
+			sepNavVisRange = "{0, 1424}";
+		};
+	};
+	C4B12C51119B8B24000EF532 /* FiddlerTestController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1833}}";
+			sepNavSelRange = "{0, 984}";
+			sepNavVisRange = "{0, 1539}";
+			sepNavWindowFrame = "{{15, 243}, {1154, 630}}";
+		};
+	};
+	C4B12D32119B9847000EF532 /* Fiddler.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C4B12C28119A371F000EF532 /* Fiddler.m */;
+		functionName = "-reload";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 20;
+		location = Fiddler;
+		modificationTime = 295414866.245307;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	C4B12D5E119B9AB3000EF532 /* Fiddler.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C4B12C28119A371F000EF532 /* Fiddler.m */;
+		functionName = "-setupSunriseSunset";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 20;
+		location = Fiddler;
+		modificationTime = 295414855.467667;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	C4B12DB8119BA14B000EF532 /* Fiddler.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C4B12C28119A371F000EF532 /* Fiddler.m */;
+		functionName = "-setupSunriseSunset";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 20;
+		location = Fiddler;
+		modificationTime = 295414855.467767;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	C4B12DF1119BA41A000EF532 /* FiddlerTestController.m:85 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C4B12C51119B8B24000EF532 /* FiddlerTestController.m */;
+		functionName = "-btnCalculate_Clicked:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 85;
+		location = Fiddler;
+		modificationTime = 295414855.467854;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	C4B12E54119BAC33000EF532 /* FiddlerTestController.m:82 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C4B12C51119B8B24000EF532 /* FiddlerTestController.m */;
+		functionName = "-btnCalculate_Clicked:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 82;
+		location = Fiddler;
+		modificationTime = 295414858.359983;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	C4B12E5E119BAC58000EF532 /* Fiddler.m:48 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C4B12C28119A371F000EF532 /* Fiddler.m */;
+		functionName = "-setTimeZone:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 48;
+		location = Fiddler;
+		modificationTime = 295414878.076058;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	C4B12E6F119BAE10000EF532 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C4B12C28119A371F000EF532 /* Fiddler.m */;
+		name = "Fiddler.m: 75";
+		rLen = 0;
+		rLoc = 2371;
+		rType = 0;
+		vrLen = 1389;
+		vrLoc = 0;
+	};
+	C4B12E70119BAE10000EF532 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C4B12C29119A371F000EF532 /* Fiddler.h */;
+		name = "Fiddler.h: 46";
+		rLen = 0;
+		rLoc = 1589;
+		rType = 0;
+		vrLen = 1288;
+		vrLoc = 0;
+	};
+	C4B12E71119BAE10000EF532 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FiddlerAppDelegate.h */;
+		name = "FiddlerAppDelegate.h: 1";
+		rLen = 918;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1253;
+		vrLoc = 0;
+	};
+	C4B12E72119BAE10000EF532 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FiddlerAppDelegate.m */;
+		name = "FiddlerAppDelegate.m: 3";
+		rLen = 0;
+		rLoc = 109;
+		rType = 0;
+		vrLen = 1380;
+		vrLoc = 0;
+	};
+	C4B12E73119BAE10000EF532 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C4B12C50119B8B24000EF532 /* FiddlerTestController.h */;
+		name = "FiddlerTestController.h: 3";
+		rLen = 0;
+		rLoc = 112;
+		rType = 0;
+		vrLen = 1424;
+		vrLoc = 0;
+	};
+	C4B12E74119BAE10000EF532 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C4B12C51119B8B24000EF532 /* FiddlerTestController.m */;
+		name = "FiddlerTestController.m: 1";
+		rLen = 984;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1539;
+		vrLoc = 0;
+	};
+	C4B12E75119BAE10000EF532 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 3";
+		rLen = 0;
+		rLoc = 95;
+		rType = 0;
+		vrLen = 1135;
+		vrLoc = 0;
+	};
+	C4B12E76119BAE10000EF532 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Fiddler_Prefix.pch */;
+		name = "Fiddler_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 183;
+		vrLoc = 0;
+	};
+	C4B12E77119BAE10000EF532 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Fiddler-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Users/jkustanowitz/source/iphoneapps/Fiddler/Fiddler-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	C4B12E78119BAE10000EF532 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Fiddler-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Users/jkustanowitz/source/iphoneapps/Fiddler/Fiddler-Info.plist";
+		rLen = 10;
+		rLoc = 0;
+	};
+}
